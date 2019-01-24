@@ -1,0 +1,107 @@
+{
+  "files": {
+    "Frameworks/Cg.framework/Cg": {
+      "distributions": [
+        "darwin"
+      ],
+      "sha384": "ac72679d3d2a43a4b6e9069522f8ef83439e6eb5b43ddfb8eda2574c34e977d80a2a685bf9e5de6212753a4d12841000",
+      "size": 40936976
+    },
+    "OpenAL32.dll": {
+      "distributions": [
+        "win32"
+      ],
+      "sha384": "975e7742148e4e7ef8e1371c10dc32f0c3311507443f77345e80dd0f198e8421c0ffef37947365408e7ee6a0f2159944",
+      "size": 323072
+    },
+    "Pirates": {
+      "distributions": [
+        "darwin"
+      ],
+      "sha384": "20251bf818caf7031a2bd9cdc83fc58eedb43312e5baaf662b3a5a9f9d9fb1089068a8c895b38997067b5e33ce400cad",
+      "size": 30361948
+    },
+    "cg.dll": {
+      "distributions": [
+        "win32"
+      ],
+      "sha384": "2d2717039597de0bf48814adee90a2b8acfd9dab29f37a64bf948fb55fcf9ca78fb05f9222273165e23c5ca2ab874d21",
+      "size": 8531264
+    },
+    "cgGL.dll": {
+      "distributions": [
+        "win32"
+      ],
+      "sha384": "bc8145c47d3ca6965ce5192e2ad7e6e72626dd8c3be96aa9307569361f30345b7b1124fb1d092c0addb3820b53a38a78",
+      "size": 359232
+    },
+    "libcrypto.1.0.0.dylib": {
+      "distributions": [
+        "darwin"
+      ],
+      "sha384": "7def504ba6e3d04f058ffaa90df8bf27f4c4cac3eb9213a826becf585eb5e50b03d1f4d70f01c9594233167c655ca8ef",
+      "size": 1995808
+    },
+    "libfreetype.6.dylib": {
+      "distributions": [
+        "darwin"
+      ],
+      "sha384": "9067f4e005540edb43c1f7b30f04260cdc67719872f21e665bd515f2ab97c31b8d1d5d8fa64f35f211fbcf51ced8ca88",
+      "size": 1535920
+    },
+    "libopenal.1.dylib": {
+      "distributions": [
+        "darwin"
+      ],
+      "sha384": "c1a3553b2f1d857ecdbd11b1ef92522e9cd503f17964d91eff4ecac888340c2d899582fd61bc8e579568a5d2958d6df6",
+      "size": 727196
+    },
+    "libssl.1.0.0.dylib": {
+      "distributions": [
+        "darwin"
+      ],
+      "sha384": "e8670a0d0bf68f4e63134427da9fc341fe5ac1a6c8c267a1d0470662680623a1253840ad383f021850a90c0c95d9bd39",
+      "size": 373744
+    },
+    "porgame.dll": {
+      "sha384": "d160c6610ce2a69dca17f0d8b57d1495140851b45ff8d675488c7c51175f7d276f0ccf35d5004abdfed9210ad2d7dce8",
+      "size": 11122475
+    },
+    "porgame.exe": {
+      "distributions": [
+        "win32"
+      ],
+      "sha384": "2d1c2ac05d50ea320bc4233c6f277eb25bde58b1769ff9288810711e41fa0251cfe2cdb6a655e71cd9269291951e4c11",
+      "size": 8171520
+    },
+    "resources/default/phase_1.mf.gz": {
+      "size": 31137056
+    },
+    "resources/default/phase_2.mf.gz": {
+      "size": 69380274
+    },
+    "resources/default/phase_3.mf.gz": {
+      "size": 74516228
+    },
+    "resources/default/phase_4.mf.gz": {
+      "size": 132166053
+    },
+    "resources/default/phase_5.mf.gz": {
+      "size": 116743559
+    },
+    "resources/default/phase_6.mf.gz": {
+      "size": 57714598
+    }
+  },
+  "launcherVersions": {
+    "darwin": "1.0.0",
+    "win32": "1.0.0"
+  },
+  "outdatedMessage": {
+    "link": "https://piratesonline.us/play",
+    "message": "You are running an old version of the Pirates Online Retribution Launcher. After you press OK, you will be redirected to the launcher download page."
+  },
+  "removedFiles": [
+    "upx.exe"
+  ]
+}
